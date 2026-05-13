@@ -1,6 +1,6 @@
 # Branch Predictor Simulator
 
-This repository contains a C implementation of a branch predictor simulator for the MP2 branch prediction assignment. The simulator supports bimodal, gshare, and hybrid branch predictors and prints results in the assignment's required format.
+This repository contains a C implementation of a branch predictor simulator. The simulator supports bimodal, gshare, and hybrid branch predictors and prints results in the assignment's required format.
 
 ## Project Structure
 
