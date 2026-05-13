@@ -1,0 +1,14 @@
+# Build artifacts
+sim
+*.o
+
+# Generated simulator outputs
+outputs/*.txt
+
+# Editor and OS files
+.DS_Store
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
